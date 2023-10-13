@@ -5,7 +5,7 @@
 // sequence: viewport, agent, dna, plant, habitat, sounds
 // disturb negative is bad
 
-let sscale = .5
+let sscale = .73 //.5
 let canvasHeight = 1052 * sscale
 let canvasWidth = 1869 * sscale
 let sceneHeight = 620 * sscale
